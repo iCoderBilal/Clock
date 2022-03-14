@@ -9,3 +9,6 @@ const myObject = {
     
     }
     document.getElementById("demo").innerHTML = myObject.fullName(); 
+
+
+   
